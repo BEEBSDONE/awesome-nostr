@@ -196,6 +196,7 @@ Websites with lists of relays and their performance/health:
   - [member.cash](https://member.cash/) - live instance
 - [Memestr](https://memestr.app/) - nostr hub for memes.
 - [MeShell](https://github.com/BEEBSDONE/MeShell_Nodejs)![stars](https://img.shields.io/github/stars/BEEBSDONE/MeShell_Nodejs.svg?style=social) - Web, iOS, and Android blog type client destined to publish articles and researches for independent journalists.
+- [MeShell Messenger](https://msg.meshell.io) - A secure messenger based on Nostr protocol. MeShell Messenger is a Progressive Web App, you can use and download on any platform without passing by any app store. The app is allowing users to create temporary relays to communicate then delete it when the conversation is over, which is the most secure way to communicate as of today.
   - [MeShell.io](https://meshell.io) - Landing page for more information
 - [Minds](https://www.minds.com/) - open source social network. Supports reading and creating posts using the nostr protocol
 - [more-speech](https://github.com/unclebob/more-speech)![stars](https://img.shields.io/github/stars/unclebob/more-speech.svg?style=social) - desktop client for nostr written in Clojure
